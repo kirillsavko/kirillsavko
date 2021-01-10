@@ -9,7 +9,7 @@
 </a>
 
 <br>
-<div style="margin-bottom: 10px;"></div>
+<ul></ul>
 
 - 🔭 Always learning new things;
 - 💻 I write quality code on JavaScript;
