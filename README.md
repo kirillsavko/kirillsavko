@@ -19,4 +19,4 @@
 
 <div style="margin-bottom: 10px;"></div>
 
- <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=kirillsavko&show_icons=true&hide=start&hide_border=true&count_private=true" style="margin-left: -20px;" />
+ <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=kirillsavko&show_icons=true&hide=stars&hide_border=true&count_private=true" style="margin-left: -20px;" />
