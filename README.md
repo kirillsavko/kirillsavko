@@ -8,6 +8,7 @@
   <img align="left" alt="Kirill's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
 </a>
 
+<br>
 <div style="margin-bottom: 10px;"></div>
 
 - 🔭 Always learning new things;
