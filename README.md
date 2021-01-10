@@ -13,8 +13,8 @@
 
 - 🔭 Always learning new things;
 - 💻 I write quality code on JavaScript;
-- 📫 How to reach me: <a href="mailto: kirillsavko25@gmail.com">kirillsavko25@gmail.com</a>
-- 📝 [Resume](https://drive.google.com/file/d/1SL_cYwhh1We6XYE9YPHQ4M5_k5u0t-Ji/view?usp=sharing)
+- 📫 How to reach me: <a href="mailto: kirillsavko25@gmail.com">kirillsavko25@gmail.com</a>;
+- 📝 [Resume](https://drive.google.com/file/d/1SL_cYwhh1We6XYE9YPHQ4M5_k5u0t-Ji/view?usp=sharing);
 
 <div style="margin-bottom: 10px;"></div>
 
