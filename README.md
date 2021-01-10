@@ -7,3 +7,5 @@
 <a href="https://t.me/kirill_savko">
   <img align="left" alt="Kirill's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
 </a>
+
+ <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=kirillsavko&show_icons=true&hide_border=true&hide=stars" />
