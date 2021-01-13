@@ -15,7 +15,7 @@
 - 💻  I write quality code on JavaScript;
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: <a href="mailto: kirillsavko25@gmail.com">kirillsavko25@gmail.com</a>;
-- 📝  [Resume](https://drive.google.com/file/d/1SL_cYwhh1We6XYE9YPHQ4M5_k5u0t-Ji/view?usp=sharing)
+- 📝  [Resume](https://drive.google.com/file/d/1naQZgj6qv1ZTb7woOt-LTBXZefLjEjTV/view?usp=sharing)
 
 <div style="margin-bottom: 10px;"></div>
 
