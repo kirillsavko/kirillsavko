@@ -18,5 +18,3 @@
 - 📝  [Resume](https://drive.google.com/file/d/1-QNsEYkbPN86pY7PdgX7q38QS4VAIMkh/view?usp=sharing)
 
 <div style="margin-bottom: 10px;"></div>
-
- <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=kirillsavko&show_icons=true&hide=stars&hide_border=true&count_private=true" style="margin-left: -20px;" />
