@@ -12,7 +12,6 @@
 <ul></ul>
 
 - 🔭  Always learning new things;
-- 💻  I write quality code on JavaScript;
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: <a href="mailto: kirillsavko25@gmail.com">kirillsavko25@gmail.com</a>;
 - 📝  [Resume](https://drive.google.com/file/d/1-QNsEYkbPN86pY7PdgX7q38QS4VAIMkh/view?usp=sharing)
