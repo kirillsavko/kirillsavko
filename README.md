@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://t.me/kirill_savko">
-  <img align="left" alt="Kirill's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
+  <img align="left" alt="Kirill's Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
 
 <br>
